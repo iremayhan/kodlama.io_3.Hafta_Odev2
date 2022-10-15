@@ -1,3 +1,1 @@
-# 3.hafta_2.Odev_kodlama.io
-#3.hafta_3.Odev_kodlama.io
-# 3.hafta_2.Odev_kodlama.io
+# kodlama.io_3.Hafta_Odev2
